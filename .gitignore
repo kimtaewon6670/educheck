@@ -217,3 +217,11 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .vscode/
+
+# EduCheck local files
+.vscode/
+data/*.db
+data/*.db-journal
+!data/.gitkeep
+.DS_Store
+Thumbs.db
